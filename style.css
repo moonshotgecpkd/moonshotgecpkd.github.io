@@ -49,8 +49,12 @@
 body {
   background: #010100;
   color: #ced1d5;
-  font-family: "Roboto Mono", monospace;
   line-height: 24px;
+}
+
+p,
+ol {
+  font-family: "Roboto Mono", monospace;
 }
 
 a {
