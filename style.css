@@ -68,8 +68,12 @@ a:hover {
 }
 
 #logo-header {
-  width: 60%;
+  width: 20%;
   margin-bottom: 2rem;
+}
+
+#hero-desc {
+  margin-bottom: 6rem;
 }
 
 #logo-footer {
