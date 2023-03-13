@@ -26,6 +26,8 @@ a:hover {
 
 #hero-desc {
   margin-bottom: 6rem;
+  font-family: "Roboto Mono", monospace;
+  font-size: 1.3rem;
 }
 
 #logo-footer {
@@ -41,9 +43,9 @@ a:hover {
 }
 
 #tag-line {
-  font-size: 3.5rem;
+  font-size: 3.1rem;
   font-family: "Poppins", sans-serif;
-  line-height: 3.6rem;
+  line-height: 3.5rem;
 }
 
 h2 {
