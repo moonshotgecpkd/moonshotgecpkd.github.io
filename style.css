@@ -40,9 +40,10 @@ a:hover {
   padding-top: 0.8rem;
 }
 
-h1 {
-  font-size: 3rem;
+#tag-line {
+  font-size: 3.5rem;
   font-family: "Poppins", sans-serif;
+  line-height: 3.6rem;
 }
 
 h2 {
